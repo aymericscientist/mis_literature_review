@@ -8,4 +8,4 @@ Information System Research (ISR) : [Advanced Search](https://pubsonline.informs
 
 FNEGE 2022 / 1* rank 
 
-European Journal of Information Systems : [Advanced Search]((https://www.tandfonline.com/search/advanced)) /!\ you must define European Journal of Information Systems into the case "Journal" 
+European Journal of Information Systems : [Advanced Search](https://www.tandfonline.com/search/advanced) /!\ you must define European Journal of Information Systems into the case "Journal" 
