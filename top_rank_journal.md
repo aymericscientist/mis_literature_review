@@ -1,3 +1,8 @@
+Hiebl, M. R. W. (2023). Sample Selection in Systematic Literature Reviews of Management Research. Organizational Research Methods, 26(2), 229‑261. https://doi.org/10.1177/1094428120986851
+
+
+
+
 | RANG FNEGE:2022 | RANG ABS:2024 | REVUE                                                                      | LIEN RECHERCHE AVANCÉE                                                                                                                                                                                                 |
 | --------------- | ------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1*              | 4*            | Management Information Systems Quarterly (MIS Quarterly)                   | [https://aisel.aisnet.org/do/search/advanced/?fq=virtual_ancestor_link:%22https://aisel.aisnet.org/misq%22](https://aisel.aisnet.org/do/search/advanced/?fq=virtual_ancestor_link:%22https://aisel.aisnet.org/misq%22) |
